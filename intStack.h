@@ -1,4 +1,4 @@
-#ifndef intStack_h 
+#ifndef intStack_h
 #define intStack_h
 #include <stdio.h>
 #include <stdlib.h>
