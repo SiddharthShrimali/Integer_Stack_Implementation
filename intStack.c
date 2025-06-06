@@ -4,8 +4,8 @@
 #define INITIAL_CAPACITY 8
 
 typedef struct intStack {
-    int size;            //no of elements
-    int data[INITIAL_CAPACITY];  //fixed array
+    int size; //no of elements
+    int data[INITIAL_CAPACITY]; //fixed array
 } stack;
 
 void initialise(stack *s) {
