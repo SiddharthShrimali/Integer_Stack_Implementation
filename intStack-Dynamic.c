@@ -1,4 +1,4 @@
-#include <stdio.h> 
+#include <stdio.h>
 #include <stdlib.h>
 #define INITIAL_CAPACITY 8
 #define DOUBLING_THRESHOLD 0.9
